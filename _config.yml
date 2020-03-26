@@ -1,9 +1,12 @@
-site: Sidey
+site: Lightbulb Moments
 url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+name:'Lightbulb Moments'
+logo:'assets/images/logo.png'
+favicon:'assets/images/logo.png'
+title: Lightbulb Moments
+description: A place to store and reflect on Lightbulb Moments as well as just general rants on and about tech.
 twitter:
-  username: #yourusername
+  username: henryarphillips
   card: summary
   creator: #yourusername
 author:
