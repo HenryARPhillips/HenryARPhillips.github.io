@@ -5,10 +5,10 @@ title: About
 
 
 
-### Features
+<!-- ### Features -->
 
-###- Responsive design
+<!-- - Responsive design-->
 
-### Screenshot
+<!-- ### Screenshot -->
 
-###![Screenshot](screenshot.png)
+<!-- ![Screenshot](screenshot.png) -->
