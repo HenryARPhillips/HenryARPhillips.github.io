@@ -1,14 +1,6 @@
 site: 'Lightbulb Moments'
 url: 'lbmoments.github.io'
 title: 'Lightbulb Moments'
-name: 'Lightbulb Moments'
-logo: 'assets/js/images/color_logo_on_white.png'
-favicon: 'assets/js/images/logo_without_text_and_tagline.png'
-baseurl: ''
-google_analytics: ''
-disqus: ''
-mailchimp-list: ''
-include: ["_Pages"]
 description: A place to store and reflect on Lightbulb Moments as well as just general rants on and about tech.
 twitter:
   username: henryarphillips
@@ -20,7 +12,7 @@ author:
   avatar:
   email: #youremail
   url: #yoururl
-permalink: "/:title"
+permalink: pretty
 
 baseurl: ""
 
